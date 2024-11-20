@@ -7,7 +7,7 @@ It is recommended to install oemof_tsam_tutorial within its own environment. If 
 ### Local Installation for Development
 Clone a local copy of the repository to your computer
 
-	git clone 
+	git clone git@github.com:srhbrnds/oemof-tsam-tutorial-2024.git
 
 Change the directory of your shell into the root folder of the repository
 
@@ -19,7 +19,7 @@ Install all required packages into its own environment using conda e.g.
 
 Afterward activate the environment
 
-	conda activate oemof-tsam-tutorial
+	conda activate oemof_tsam_tutorial
 
 
 
