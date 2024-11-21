@@ -15,7 +15,7 @@ Change the directory of your shell into the root folder of the repository
 
 Install all required packages into its own environment using conda e.g.
 
-	conda env create -f envrionment.yml
+	conda env create -f environment.yml
 
 Afterward activate the environment
 
