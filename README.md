@@ -20,7 +20,13 @@ Install all required packages into its own environment using conda e.g.
 Afterward activate the environment
 
 	conda activate oemof_tsam_tutorial
+ 
+ Due to some dependency problems, you need to install jupyter notebook separately, therfore run
 
-
+	conda install notebook
+ 
+Afterwards, open the juypter notebook in youur terminal by running:
+	
+ 	jupyter notebook
 
 
